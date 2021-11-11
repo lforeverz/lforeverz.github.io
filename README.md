@@ -1,5 +1,5 @@
 <audio autoplay="autoplay" controls="controls" loop="loop" id="bg-music">
-			<source src="//music.163.com/outchain/player?type=2&id=569212210&auto=0&height=66" type="audio/mpeg"></source>
+			<source src="http://music.163.com/outchain/player?type=2&id=569212210&auto=0&height=66" type="audio/mpeg"></source>
 		</audio>
 
 
