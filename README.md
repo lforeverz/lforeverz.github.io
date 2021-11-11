@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86  src="//music.163.com/outchain/player?type=2&id=569212210&auto=0&height=66" allow="autoplay"></iframe>
 
-<iframe src="//player.bilibili.com/player.html?aid=806545681&bvid=BV1334y1Z7kq&cid=439325784&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=806545681&bvid=BV1334y1Z7kq&cid=439325784&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" allow="autoplay"> </iframe>
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
