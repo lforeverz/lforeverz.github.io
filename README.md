@@ -1,8 +1,7 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.css">
-<script src="https://cdn.jsdelivr.net/npm/aplayer@1.7.0/dist/APlayer.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/meting@1.1.0/dist/Meting.min.js"></script>
+<audio autoplay="autoplay" controls="controls" loop="loop" id="bg-music">
+			<source src="//music.163.com/outchain/player?type=2&id=569212210&auto=0&height=66" type="audio/mpeg"></source>
+		</audio>
 
-<div class="aplayer" data-id="569212210" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="true"></div>
 
 ## Welcome to GitHub Pages
 
@@ -30,11 +29,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 ```
 
-[2021-11-11 准备的第一天](./2021-11-11.md) and ![Image](src)
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86  src="//music.163.com/outchain/player?type=2&id=569212210&auto=0&height=66" allow="autoplay"></iframe>
-
-<iframe src="//player.bilibili.com/player.html?aid=806545681&bvid=BV1334y1Z7kq&cid=439325784&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" allow="autoplay"> </iframe>
+[2021-11-11 准备的第一天](./2021-11-11.md)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
